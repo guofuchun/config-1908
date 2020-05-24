@@ -1,7 +1,7 @@
 server:
   port: 8082
 
-  eureka:
+eureka:
   client:
     service-url:
       defaultZone: http://127.0.0.1:8090/eureka
