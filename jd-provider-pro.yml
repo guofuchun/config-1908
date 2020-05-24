@@ -6,4 +6,4 @@ server:
     service-url:
       defaultZone: http://127.0.0.1:8090/eureka
 
-myname: c1234560shangxian
+myname: "c1234560shangxian"
